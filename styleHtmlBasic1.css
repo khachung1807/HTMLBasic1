@@ -1,0 +1,17 @@
+div.letter{
+			padding-right: 180px;
+			padding-left: 180px;
+			text-align: justify;
+		}
+div.headLetter{
+			text-align: right;
+			line-height: 0.3;
+			
+		}
+div.contentLetter{
+			text-align: left;
+			line-height: 1;
+		}
+p.re{
+			font-size: 20px;
+		}
